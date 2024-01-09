@@ -1,0 +1,12 @@
+racing-loadtest
+racing-loadtest-argocd
+racing-loadtest-kubernetes-clusters
+racing-tds00-amtote
+racing-tds00-appmetricsdb
+racing-tds00-mergedb
+racing-tds00-objectsearchdb
+racing-tds00-raceeventdb
+racing-tds00-racefeeddb
+racing-tds00-sgr_tpas
+racing-tds00-tvgtote
+racing-tds00-tvgtotebackoffice

@@ -1,0 +1,37 @@
+racing-gcloud-firewall-rules,No pulls matching string found
+racing-gcp-service-accounts,Failed to merge pull number 2 with code 405
+racing-gocd-pipelines,No pulls matching string found
+racing-hive-test,Failed to merge pull number 1 with code 405
+racing-k6-load-tests,Failed to merge pull number 10 with code 405
+racing-mockserver,Failed to merge pull number 2 with code 405
+racing-node-traffic-splitter,Failed to merge pull number 1 with code 405
+racing-password-recovery,Failed to merge pull number 1 with code 405
+racing-redis-analyze,Failed to merge pull number 1 with code 405
+racing-redis-serializers,Failed to merge pull number 1 with code 405
+racing-session-invalidator,Failed to merge pull number 1 with code 405
+racing-sqlgroup-web,Failed to merge pull number 20 with code 500
+racing-telecheck-did-generator,Failed to merge pull number 1 with code 405
+racing-traffic-splitter-nginx,Failed to merge pull number 2 with code 405
+racing-tvg-aw-exec,No pulls matching string found
+racing-tvg-common,Failed to merge pull number 1 with code 405
+racing-tvg-deposit-gtm,Failed to merge pull number 1 with code 405
+racing-tvg-dma-injector,Failed to merge pull number 1 with code 405
+racing-tvg-fnd,Failed to merge pull number 2 with code 405
+racing-tvg-graph,Failed to merge pull number 1 with code 405
+racing-tvg-gtm,Failed to merge pull number 1 with code 405
+racing-tvg-ios-hybrid,Failed to merge pull number 2 with code 405
+racing-tvg-kafka-dev,Failed to merge pull number 1 with code 405
+racing-tvg-login-bridge,Failed to merge pull number 1 with code 405
+racing-tvg-testrail,Failed to merge pull number 2 with code 405
+racing-tvg-ui,Failed to merge pull number 1 with code 405
+racing-tvg-vendors,Failed to merge pull number 1 with code 405
+racing-tvg-year-end-reports,Failed to merge pull number 1 with code 405
+racing-tvg4,Failed to merge pull number 10 with code 405
+racing-tvg4-e2e-server,Failed to merge pull number 2 with code 405
+racing-tvg4-e2e-smoke-tests,Failed to merge pull number 2 with code 405
+racing-tvg4-e2e-test,Failed to merge pull number 1 with code 405
+samsungtv-tvg-poc,Failed to merge pull number 4 with code 404
+testing-buildkite,Error getting pulls with code 404
+tvg_analysis,Failed to merge pull number 1 with code 404
+tvg-backstage-poc-,No pulls matching string found
+tvg-ott-copy,Error getting pulls with code 404

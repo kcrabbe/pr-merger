@@ -1,0 +1,67 @@
+racing-gcloud-firewall-rules,No pulls matching string found
+racing-gcp-service-accounts,Failed to merge pull number 2 with code 405
+racing-gocd-pipelines,No pulls matching string found
+racing-hive-test,Failed to merge pull number 1 with code 405
+racing-k6-load-tests,Failed to merge pull number 10 with code 405
+racing-mockserver,Failed to merge pull number 2 with code 405
+racing-node-traffic-splitter,Failed to merge pull number 1 with code 405
+racing-password-recovery,Failed to merge pull number 1 with code 405
+racing-redis-analyze,Failed to merge pull number 1 with code 405
+racing-redis-serializers,Failed to merge pull number 1 with code 405
+racing-session-invalidator,Failed to merge pull number 1 with code 405
+racing-sqlgroup-web,Failed to merge pull number 20 with code 500
+racing-telecheck-did-generator,Failed to merge pull number 1 with code 405
+racing-traffic-splitter-nginx,Failed to merge pull number 2 with code 405
+racing-tvg-aw-exec,No pulls matching string found
+racing-tvg-common,Failed to merge pull number 1 with code 405
+racing-tvg-deposit-gtm,Failed to merge pull number 1 with code 405
+racing-tvg-dma-injector,Failed to merge pull number 1 with code 405
+racing-tvg-fnd,Failed to merge pull number 2 with code 405
+racing-tvg-graph,Failed to merge pull number 1 with code 405
+racing-tvg-gtm,Failed to merge pull number 1 with code 405
+racing-tvg-ios-hybrid,Failed to merge pull number 2 with code 405
+racing-tvg-kafka-dev,Failed to merge pull number 1 with code 405
+racing-tvg-login-bridge,Failed to merge pull number 1 with code 405
+racing-tvg-testrail,Failed to merge pull number 2 with code 405
+racing-tvg-ui,Failed to merge pull number 1 with code 405
+racing-tvg-vendors,Failed to merge pull number 1 with code 405
+racing-tvg-year-end-reports,Failed to merge pull number 1 with code 405
+racing-tvg4,Failed to merge pull number 10 with code 405
+racing-tvg4-e2e-server,Failed to merge pull number 2 with code 405
+racing-tvg4-e2e-smoke-tests,Failed to merge pull number 2 with code 405
+racing-tvg4-e2e-test,Failed to merge pull number 1 with code 405
+samsungtv-tvg-poc,Failed to merge pull number 4 with code 404
+testing-buildkite,Error getting pulls with code 404
+tvg_analysis,Failed to merge pull number 1 with code 404
+tvg-backstage-poc-,No pulls matching string found
+tvg-ott-copy,Error getting pulls with code 404
+racing-brz-client,Failed to merge pull number 2 with code 405
+racing-cert-fdr-ios-hybrid,Failed to merge pull number 1 with code 405
+racing-cert-tvg-mobile-native,Failed to merge pull number 1 with code 405
+racing-champ-fe,Failed to merge pull number 6 with code 405
+racing-common,Failed to merge pull number 1 with code 405
+racing-config-module,Failed to merge pull number 1 with code 405
+racing-content-module,Failed to merge pull number 1 with code 405
+racing-deposit,Failed to merge pull number 1 with code 405
+racing-deposit-standalone,Failed to merge pull number 2 with code 405
+racing-e2e-tester,Failed to merge pull number 1 with code 405
+racing-fanduel-ios-hybrid,Failed to merge pull number 5 with code 405
+aws-tvg-pipeline,Error getting pulls with code 404
+fanduel-racing-libs,Failed to merge pull number 1 with code 404
+infra-route53-tvg-com,Failed to merge pull number 21 with code 405
+racing-adaptor,No pulls matching string found
+racing-admin-console-webix,Failed to merge pull number 1 with code 405
+racing-android_wrapper_mep,Failed to merge pull number 5 with code 405
+racing-betslip,Failed to merge pull number 4 with code 405
+racing-loadtest,Failed to merge pull number 1 with code 404
+racing-loadtest-argocd,No pulls matching string found
+racing-loadtest-kubernetes-clusters,No pulls matching string found
+racing-tds00-amtote,No pulls matching string found
+racing-tds00-appmetricsdb,No pulls matching string found
+racing-tds00-mergedb,No pulls matching string found
+racing-tds00-objectsearchdb,No pulls matching string found
+racing-tds00-raceeventdb,No pulls matching string found
+racing-tds00-racefeeddb,No pulls matching string found
+racing-tds00-sgr_tpas,No pulls matching string found
+racing-tds00-tvgtote,No pulls matching string found
+racing-tds00-tvgtotebackoffice,No pulls matching string found
